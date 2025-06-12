@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.env
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+monitoring/logs/*
+monitoring/alerts/*
+monitoring/statistics/*
+!monitoring/logs/.gitkeep
+!monitoring/alerts/.gitkeep
+!monitoring/statistics/.gitkeep
+
+# Data files
+data/raw/*
+!data/raw/.gitkeep
+
+# System files
+.DS_Store
+Thumbs.db

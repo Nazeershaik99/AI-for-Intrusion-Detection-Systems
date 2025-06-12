@@ -1,0 +1,19 @@
+2025-06-12 11:54:19,715 - INFO - Loading and preprocessing data...
+2025-06-12 11:54:20,955 - INFO - Training data shape: (125973, 3460)
+2025-06-12 11:54:20,956 - INFO - Test data shape: (22544, 3460)
+2025-06-12 11:54:20,956 - INFO - Number of features: 3460
+2025-06-12 11:54:20,962 - INFO - 
+Dataset Information:
+--------------------------------------------------
+2025-06-12 11:54:20,963 - INFO - Training samples: 125973
+2025-06-12 11:54:20,963 - INFO - Test samples: 22544
+2025-06-12 11:54:20,963 - INFO - Number of features: 3460
+2025-06-12 11:54:20,963 - INFO - Positive class ratio in training: 100.00%
+2025-06-12 11:54:20,966 - INFO - Positive class ratio in testing: 100.00%
+2025-06-12 11:54:20,966 - INFO - Starting model training...
+2025-06-12 11:58:02,612 - INFO - Evaluating model performance...
+2025-06-12 11:58:03,829 - INFO - 
+Final Results:
+--------------------------------------------------
+2025-06-12 11:58:03,830 - INFO - Test Loss: 0.0000
+2025-06-12 11:58:03,830 - INFO - Test Accuracy: 1.0000

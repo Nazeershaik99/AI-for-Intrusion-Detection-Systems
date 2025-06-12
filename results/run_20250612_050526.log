@@ -1,0 +1,6 @@
+2025-06-12 10:35:30,749 - INFO - Loading and preprocessing data...
+2025-06-12 10:35:32,106 - INFO - Training data shape: (125973, 3460)
+2025-06-12 10:35:32,106 - INFO - Test data shape: (22544, 3460)
+2025-06-12 10:35:32,106 - INFO - Number of features: 3460
+2025-06-12 10:35:32,111 - INFO - Starting model training...
+2025-06-12 10:35:32,194 - ERROR - Error in main execution: The filepath provided must end in `.keras` (Keras model format). Received: filepath=models/baseline/best_model

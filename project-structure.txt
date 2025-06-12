@@ -1,0 +1,22 @@
+AI-Cybersecurity-Framework/
+├── data/
+│   ├── raw/                     # Original datasets
+│   ├── processed/               # Preprocessed datasets
+│   └── README.md               # Data documentation
+├── models/
+│   ├── baseline/               # Traditional ML models
+│   ├── adversarial/           # Adversarial models
+│   └── README.md              # Model documentation
+├── src/
+│   ├── preprocessing/         # Data preparation scripts
+│   ├── models/               # Model implementations
+│   ├── attacks/              # Adversarial attack implementations
+│   ├── defense/              # Defense mechanism implementations
+│   ├── utils/                # Utility functions
+│   └── visualization/        # Results visualization
+├── tests/                    # Unit tests
+├── notebooks/                # Jupyter notebooks for experiments
+├── requirements.txt          # Project dependencies
+├── setup.py                 # Package setup
+├── README.md                # Main project documentation
+└── .gitignore              # Git ignore file
